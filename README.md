@@ -2,7 +2,7 @@
 
 I'm **Anupama**, a Full Stack Developer who loves building clean, scalable, and user-focused web applications 🚀  
 
-I started my journey with simple CRUD apps and grew into designing complete backend architectures, contributing to real-world SaaS platforms, and mentoring developers along the way. These days, I spend most of my time crafting solid backends, clean APIs, and full-stack solutions that actually scale (and don’t break at 2 AM 😄).
+I started my journey with simple CRUD apps and grew into designing complete backend architectures, contributing to real-world SaaS platforms, and mentoring developers along the way. These days, I spend most of my time crafting solid backends, clean APIs, and full-stack solutions that actually scale.
 
 ---
 
